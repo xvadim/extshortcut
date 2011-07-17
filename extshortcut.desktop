@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Name=extshortcut
+Icon=extshortcut
+Type=qt
+X-Path=/opt/usr/bin/extshortcut
+X-Multiple=true
+X-home-applet-minwidth=100
+X-home-applet-minheight=20
